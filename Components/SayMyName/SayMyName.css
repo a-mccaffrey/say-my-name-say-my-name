@@ -1,0 +1,24 @@
+a.iconography {
+  color: #ed1b57;
+  text-decoration: none !important;
+}
+a.iconography:hover {
+  color: #f15722;
+}
+a.iconography:focus {
+  color: #f8acab;
+}
+.pronunciation-button {
+  color: #ed1b57;
+  text-decoration: none !important;
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+}
+.pronunciation-button:hover {
+  color: #f15722;
+}
+.pronunciation-button:focus {
+  outline: none;
+  color: #f8acab;
+}
